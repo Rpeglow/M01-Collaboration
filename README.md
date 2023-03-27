@@ -1,3 +1,3 @@
 # Test ReadMe
 
-Please don't read this
+Please read this
